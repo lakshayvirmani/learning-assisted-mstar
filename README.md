@@ -39,7 +39,7 @@ predicted actions if there are no conflicts. Otherwise the
 agents in conflict are coupled together by planning in their
 joint configuration space, just like M*.
 
-For a quick overview and demonstration, watch [this](https://youtu.be/if7kzJ9MAAg) video. For details see [Subdimensional Expansion Using Attention-Based Learning For Multi-Agent Path Finding](https://arxiv.org/) by Lakshay Virmani, Zhongqiang Ren, Sivakumar Rathinam and Howie Choset.
+For a quick overview and demonstration, watch [this](https://youtu.be/if7kzJ9MAAg) video. For details see [Subdimensional Expansion Using Attention-Based Learning For Multi-Agent Path Finding](https://arxiv.org/abs/2109.14695) by Lakshay Virmani, Zhongqiang Ren, Sivakumar Rathinam and Howie Choset.
 
 ## Key files
 - `data_generators/`
